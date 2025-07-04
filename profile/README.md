@@ -18,9 +18,13 @@ NullPointerGang — это команда профессиональных ра�
 ## Наш стек:
 
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40" />
+<img src="https://cdn.simpleicons.org/rust/F48000" width="40" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height="40"/>
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" />
 <img width="12" />
@@ -31,19 +35,20 @@ NullPointerGang — это команда профессиональных ра�
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="40" />
 </div>
 
 ## Примеры наших проектов:
 
-🎵 WentuZ
+🎵 [WentuZ](https://github.com/NullPointerGang/WentuZ)
 
 Лёгкий музыкальный плеер на Rust. Демонстрирует нашу экспертизу в системном программировании.
 
-🔐 Locana
+🔐 [Locana](https://github.com/NullPointerGang/Lockana)
 
 Сервис для безопасного хранения секретных данных — пример серьёзного подхода к безопасности.
 
-🎬 Bismark
+🎬 [Bismark](https://github.com/NullPointerGang/Bismark)
 
 Веб-сервис для скачивания видео. Простое и удобное веб-приложение.
 
