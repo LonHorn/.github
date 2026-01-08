@@ -1,7 +1,7 @@
 **LonHorn** a community of makers building cool things for everyone.
 
 ## Our Projects
-- [ ] VibeCord - research: Why a Native macOS Discord Client is a Dead End
+- VibeCord - research: Why a Native macOS Discord Client is a Dead End
 
 
 ## 👩‍🦼‍➡️Roadmap
